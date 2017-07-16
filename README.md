@@ -1,12 +1,12 @@
 ### Ma-Nguon-Mo-4305-
-## I. Mô Tả và Muc Tiêu Dự Án
-## II. Thông Tin Về Giấy Phép
-## III. Thông Tin Tổ Chức Mã Nguồn
-## IV. Chuẩn Lập Trình
-## V. Tài liệu Cho Người Dùng Cuối
-## VI. Tài Liệu Cho Người Phát Triển
-## VII. Tài Liệu Thiết Kế
-## VIII. Danh Sách Lỗi
+## Mô Tả và Muc Tiêu Dự Án
+## Thông Tin Về Giấy Phép
+## Thông Tin Tổ Chức Mã Nguồn
+## Chuẩn Lập Trình
+## Tài liệu Cho Người Dùng Cuối
+## Tài Liệu Cho Người Phát Triển
+## Tài Liệu Thiết Kế
+## Danh Sách Lỗi
 
 
 
